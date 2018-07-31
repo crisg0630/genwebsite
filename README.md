@@ -6,3 +6,6 @@ User Stories
 *open and closing message on gentrification
 * Maybe playing against bots???
 *
+changed game to info website
+started a page
+started on how its gonna look
