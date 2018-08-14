@@ -1,0 +1,21 @@
+#toc {
+	list-style: none;
+	margin-bottom: 20px;
+	border-left: 6px solid red;
+    background-color: lightgrey;
+
+}
+#toc li {
+	background: url(dot.gif) repeat-x bottom left;
+	overflow: hidden;
+	padding-bottom: 2px;
+}
+
+#toc a {
+	float: left;
+	padding: 0 0 1px -1px;
+}
+.flexbox{
+	display:flex;
+	flex direction: row;
+}

@@ -1,9 +1,15 @@
 body{
 
+  background: url("IM.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
-.button {
-    background-color:purple;
+
+#button {
+    background-color:purple; 
     border: none;
     color: white;
     padding: 5px 15px;
@@ -11,19 +17,55 @@ body{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+
 }
 
 h1{
-	border:dashed yellow;
-	color: darkblue;
+	border: red;
+	color: yellow;
+background:darkblue;
 }
 
 header{
 	font-size: 50px;
-	color:orange;
+	color: darkred;
+	
 }
 
 ul{
 	font-size: 25px;
 }
 
+.title {
+	list-style: none;
+	margin-bottom: 20px;
+	border-left: 6px solid green;
+    background-color: lightgrey;
+}
+.titles{
+	list-style: none;
+	margin-bottom: 20px;
+	border-left: 6px solid blue;
+    background-color: lightgrey;
+}
+.title2{
+	list-style: none;
+	margin-bottom: 20px;
+	border-left: 6px solid orange;
+    background-color: lightgrey;
+}
+p{
+	font-size: 25px;
+}
+
+div{
+    border: dashed white;
+    background-color:white;
+}
+
+.Contact{
+	list-style: none;
+	margin-bottom: 20px;
+	border-left: 6px solid pink;
+    background-color: lightgrey;
+}
